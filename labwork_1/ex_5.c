@@ -10,6 +10,6 @@ int main() {
     scanf("%d", &x);
 
     printf("P(x) = %d\n", a*x*x + b*x + c);
-    
+
     return 0;
 }
